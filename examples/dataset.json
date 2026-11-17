@@ -1,0 +1,14 @@
+[
+  {"username": "sample_small", "latestPosts": [
+    {"url": "https://example.com/p/a1", "videoPlayCount": 2100, "timestamp": "2026-10-01T10:00:00.000Z"},
+    {"url": "https://example.com/p/a2", "videoPlayCount": 1900, "timestamp": "2026-10-05T10:00:00.000Z"},
+    {"url": "https://example.com/p/a3", "videoPlayCount": 2300, "timestamp": "2026-10-09T10:00:00.000Z"},
+    {"url": "https://example.com/p/a4", "videoPlayCount": 41000, "timestamp": "2026-10-20T10:00:00.000Z"}
+  ]},
+  {"username": "sample_big", "latestPosts": [
+    {"url": "https://example.com/p/b1", "videoPlayCount": 2000000, "timestamp": "2026-10-01T10:00:00.000Z"},
+    {"url": "https://example.com/p/b2", "videoPlayCount": 1900000, "timestamp": "2026-10-05T10:00:00.000Z"},
+    {"url": "https://example.com/p/b3", "videoPlayCount": 2100000, "timestamp": "2026-10-09T10:00:00.000Z"},
+    {"url": "https://example.com/p/b4", "videoPlayCount": 2050000, "timestamp": "2026-10-20T10:00:00.000Z"}
+  ]}
+]

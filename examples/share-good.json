@@ -1,0 +1,6 @@
+{"share": {
+  "driver": "practical_utility",
+  "recipient": "a teammate still writing regex by hand",
+  "sendLine": "you didn't know this writes the regex for you?",
+  "portableFact": "It turns a plain sentence into a tested regex in one step"
+}}
